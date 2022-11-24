@@ -1,1 +1,1 @@
-# Prueba1
+Esta es la parte escrita del repositorio Prueba1
